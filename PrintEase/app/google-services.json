@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "284724874659",
+    "firebase_url": "https://printease-805f1-default-rtdb.firebaseio.com",
+    "project_id": "printease-805f1",
+    "storage_bucket": "printease-805f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284724874659:android:02ad80f5c265dd2cd65e16",
+        "android_client_info": {
+          "package_name": "com.example.printease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiimaMhmt34i5n9YJW5dohzrvfFcfmWJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
