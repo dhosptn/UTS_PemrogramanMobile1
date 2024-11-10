@@ -1,7 +1,7 @@
 # UTS_PemrogramanMobile1
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" alt="Android Logo" width="50" height="50">
-<img src="assets/logo_androstudio.jpeg" alt="Android Logo" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" alt="Android Logo" width="50" height="50"> <img src="assets/logo_androstudio.jpeg" alt="Android Logo" width="50" height="50">
+
 
 ## PROFIL
 
@@ -14,6 +14,7 @@
 | **Dosen Pengampu** | Donny Maulana S.kom., M.M.S.I |
 
 # Selamat datang di project Aplikasi **PrintEase**!
+PrintEase adalah aplikasi yang dirancang untuk mempermudah proses pemesanan layanan print seperti percetakan atau usaha print tugas di kampus. Aplikasi ini memungkinkan pengguna untuk membuat dan mengelola pesanan print dengan cara yang sederhana dan efisien. Pengguna dapat memilih jenis layanan print yang diinginkan, mengunggah file, menghitung harga, serta melakukan pembayaran secara langsung melalui aplikasi.
 
 ### Tujuan Aplikasi ini dibuat :
 
