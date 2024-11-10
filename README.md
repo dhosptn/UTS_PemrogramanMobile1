@@ -1,6 +1,6 @@
 # UTS_PemrogramanMobile1
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" alt="Android Logo" width="50" height="50"> <img src="assets/logo_androstudio.jpeg" alt="Android Logo" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" alt="Android Logo" width="100" height="1000"> <img src="assets/logo_androstudio.jpeg" alt="Android Logo" width="100" height="100"> <img src="assets/firebase.png" alt="Android Logo" width="100" height="100">
 
 
 ## PROFIL
