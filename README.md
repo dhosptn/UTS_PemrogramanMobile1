@@ -93,6 +93,8 @@ Pada tahap ini, fokus utama kami adalah meningkatkan kualitas desain aplikasi un
 - **Font & Tipografi**: Menerapkan font yang lebih modern seperti [Poppins](https://fonts.google.com/specimen/Poppins) untuk meningkatkan keterbacaan dan estetika.
 - **Antarmuka Pengguna (UI)**: Penyempurnaan tata letak, ukuran tombol, dan elemen visual lainnya untuk pengalaman pengguna yang lebih intuitif.
 - **Responsivitas**: Menyesuaikan desain agar optimal pada berbagai ukuran layar.
+- **Launcher Icon**: Mendesain ulang ikon aplikasi (Launcher Icon) untuk mencerminkan identitas visual PrintEase yang modern dan profesional.
+
 
 ## Apa yang Baru di Phase 2?
 
@@ -100,6 +102,10 @@ Pada tahap ini, fokus utama kami adalah meningkatkan kualitas desain aplikasi un
 - Tata letak yang lebih bersih dengan jarak antar elemen yang proporsional.
 - Peningkatan ikon dan elemen grafis agar lebih modern.
 - Perubahan pada halaman konfirmasi dan pembayaran untuk memberikan pengalaman yang lebih lancar.
+- Penambahan Launcher Icon baru untuk identitas aplikasi.
+
+### Launcher Icon
+<img src="assets/Launcher.png" alt="Android Logo" width="250" height="250">
 
 ## Fitur Utama
 
