@@ -103,23 +103,27 @@ Pada tahap ini, fokus utama kami adalah meningkatkan kualitas desain aplikasi un
 
 ## Fitur Utama
 
-### 1. Beranda
+### 1. Splash Screen
+
+<img src="assets/Splash_phase2.jpg" alt="Android Logo" width="250" height="500">
+
+### 2. Beranda
 
 <img src="assets/Landing_phase2.jpg" alt="Android Logo" width="250" height="500">
 
-### 2. Pesanan
+### 3. Pesanan
 
 <img src="assets/Order_phase2.jpg" alt="Android Logo" width="250" height="500">
 
-### 3. Edit Pesanan
+### 4. Edit Pesanan
 
 <img src="assets/OrderSummary_phase2.jpg" alt="Android Logo" width="250" height="500">
 
-### 4. Pesanan Sukses
+### 5. Pesanan Sukses
 
 <img src="assets/OrderSuccess_phase2.jpg" alt="Android Logo" width="250" height="500">
 
-### 4. Riwayat Pesanan
+### 6. Riwayat Pesanan
 
 <img src="assets/History_phase2.jpg" alt="Android Logo" width="250" height="500">
 
